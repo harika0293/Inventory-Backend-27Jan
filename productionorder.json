@@ -1,0 +1,42 @@
+[
+    {
+        "docEntry": 1,
+        "docNum": 1,
+        "postDate": "2022-08-19T00:00:00",
+        "warehouse": "GEN01",
+        "itemCode": "S1015_300851300_M9502",
+        "itemName": "ROLLER TBLE SUPPORT",
+        "plannedQty": "9262.700000",
+        "objectType": "202"
+    },
+    {
+        "docEntry": 2,
+        "docNum": 2,
+        "postDate": "2022-09-16T00:00:00",
+        "warehouse": "GEN01",
+        "itemCode": "CS00018",
+        "itemName": "Cadmium Bolt Nut with Double Washer 12 X 50 mm",
+        "plannedQty": "1.000000",
+        "objectType": "202"
+    },
+    {
+        "docEntry": 3,
+        "docNum": 3,
+        "postDate": "2022-09-16T00:00:00",
+        "warehouse": "GEN01",
+        "itemCode": "CS00018",
+        "itemName": "Cadmium Bolt Nut with Double Washer 12 X 50 mm",
+        "plannedQty": "1.000000",
+        "objectType": "202"
+    },
+    {
+        "docEntry": 4,
+        "docNum": 4,
+        "postDate": "2022-09-16T00:00:00",
+        "warehouse": "GEN01",
+        "itemCode": "CS00018",
+        "itemName": "Cadmium Bolt Nut with Double Washer 12 X 50 mm",
+        "plannedQty": "1.000000",
+        "objectType": "202"
+    }
+]
